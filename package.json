@@ -1,0 +1,15 @@
+{
+  "name": "basicauto",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy-open": "./node_modules/.bin/cypress run --headed --no-exit"
+  },
+  "author": "TYanna_Morrison <TYanna_Morrison@mcafee.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.3.2"
+  }
+}
